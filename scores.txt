@@ -1,0 +1,3 @@
+Azerty : 58
+Joueur : 58
+Var : 58
